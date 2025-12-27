@@ -1,80 +1,46 @@
-Customer Shopping Behavior Analysis | Data Analytics Project
-Project Overview
+###📊 Customer Shopping Behavior Analysis
+##📌 Overview
 
-End-to-end data analytics project focused on analyzing customer shopping behavior to uncover purchasing patterns, spending trends, and actionable business insights. The project demonstrates hands-on experience in Python, SQL, data cleaning, exploratory data analysis (EDA), Power BI dashboarding, and business reporting.
+This project performs an end-to-end Customer Shopping Behavior Analysis to uncover purchasing patterns, spending trends, and actionable business insights. It demonstrates practical experience in Python, SQL, Power BI, and data analytics workflows.
 
-Dataset
-
-File: customer_shopping_behavior.csv
-
-Data Type: Structured retail/customer data
-
-Key Attributes:
-
-Customer demographics
-
-Purchase frequency
-
-Product categories
-
-Spending and transaction behavior
-
-Tools & Technologies
+###🛠 Tools & Technologies
 
 Python: Pandas, NumPy, Matplotlib, Seaborn
-
 SQL: PostgreSQL / MySQL / SQL Server
-
 Power BI: Data modeling, DAX, dashboards
-
 Gamma: Business presentation
-
 Jupyter Notebook / VS Code
 
-Key Responsibilities & Workflow
+##🔍 Project Workflow
 
-Loaded and processed datasets using Python
+Load and explore data using Python
+Perform Exploratory Data Analysis (EDA)
+Clean and transform data for accuracy
+Run analytical SQL queries for insights
+Build interactive Power BI dashboards
+Create reports and business presentations
 
-Performed Exploratory Data Analysis (EDA) to identify trends and anomalies
+###📊 Dashboard
 
-Cleaned and transformed data for analytical accuracy
+Customer segmentation
+Purchase and spending trends
+Category-wise analysis
+Interactive KPIs and filters
 
-Executed SQL queries for aggregations, KPIs, and customer insights
+###📈 Key Insights
 
-Built interactive Power BI dashboards for business users
+Identified high-value customers
+Highlighted top-performing product categories
+Discovered customer purchasing trends
+Delivered data-driven insights for decision-making
 
-Created analytical reports and executive presentations
+###▶️ How to Run
 
-Dashboard Highlights
+Run Customer_Shopping_Behavior_Analysis.ipynb
+Execute SQL queries from customer_behavior_sql_queries.sql
+Open the Power BI dashboard file
+Review the final report and Gamma presentation
 
-Customer segmentation analysis
+###✅ Skills Demonstrated
 
-Spending and purchase trend visualization
-
-Category-wise performance metrics
-
-Interactive filters and KPIs
-
-Results & Insights
-
-Identified high-value and repeat customers
-
-Analyzed category-level sales performance
-
-Discovered key customer purchasing patterns
-
-Provided data-driven insights to support decision-making
-
-How to Run
-
-Open Customer_Shopping_Behavior_Analysis.ipynb for Python analysis
-
-Run SQL scripts from customer_behavior_sql_queries.sql
-
-Open Power BI dashboard to explore insights
-
-Review final report and Gamma presentation
-
-Skills Demonstrated
-
-Data Analysis · Python · SQL · EDA · Data Cleaning · Power BI · Dashboarding · Business Analytics · Reporting · Data Visualization
+Data Analysis · Python · SQL · EDA · Data Cleaning · Power BI · Data Visualization · Business Analytics · Reporting
